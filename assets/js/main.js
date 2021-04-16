@@ -40,8 +40,8 @@ function logMeIn(){
 			const name = formInputs[2].value.split(' ');
 			const firstName = name[0];
 			const lastName = name[1];
-			const accoountID = domain+''123'';
-			const userid = email+''123'';
+			const accoountID = domain+"123";
+			const userid = email+"123";
 			// const uniqueNumber = "UID"+Math.floor(Math.random() * 9999999);
 			aptrinsic("identify",
 			{
